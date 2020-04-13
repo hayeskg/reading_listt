@@ -16,14 +16,11 @@ header {
 section {
   background: #fae7c9;
   color: black;
-  /* padding: 20px; */
 }
 ul {
   padding: 40px;
   list-style-type: none;
 }
-/* display: flex;
-  flex-direction: row; */
 
 li {
   padding: 10px;
@@ -32,26 +29,6 @@ li {
 a {
   color: hotpink;
 }
-
-/* 
-div {
-  margin: 20px;
-  width: 100px;
-}
-
-ul {
-  margin: 0;
-  padding: 0;
-  list-style-type: none;
-}
-
-li {
-  text-align: center;
-  margin: 20px;
-}
-
-p {
-  margin: 20px; */
 
 footer {
   background: black;
