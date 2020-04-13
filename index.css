@@ -18,12 +18,8 @@ section {
   color: black;
 }
 ul {
-  padding: 40px;
+  padding: 20px;
   list-style-type: none;
-}
-
-li {
-  padding: 10px;
 }
 
 a {
